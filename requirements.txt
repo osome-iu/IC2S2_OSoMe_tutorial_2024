@@ -4,8 +4,6 @@ ujson
 requests
 jupyterlab
 ipywidgets
-protobuf==3.20.*
-allennlp
 matplotlib
 pytorch
 pyvis
