@@ -1,0 +1,23 @@
+name: ic2s2tutorial
+channels:
+  - defaults
+dependencies:
+  - python=3.11
+  - pip
+  - pip:
+    - pandas
+    - numpy<2.0.0
+    - ujson
+    - requests
+    - jupyterlab
+    - ipywidgets
+    - matplotlib
+    - igraph
+    - networkx
+    - scipy
+    - scikit-learn
+    - umap-learn
+    - xnetwork
+    - beautifulsoup4
+    - sentence-transformers
+    - emlens
