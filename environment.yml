@@ -21,3 +21,8 @@ dependencies:
     - beautifulsoup4
     - sentence-transformers
     - emlens
+    - botometer
+    - spacy
+    - pyarrow
+    - nltk
+    - atproto
