@@ -76,14 +76,24 @@ Data collected from Bluesky and Mastodon via streaming covering the period betwe
 
 Dataset is available on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12741436.svg)](https://zenodo.org/records/12741436)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12748042.svg)](https://zenodo.org/records/12748042)
 
 
 ## Setting Up Your Environment Locally
 
 We suggest using miniconda to install python packages and setup your environment. You can also use Anaconda, but it is a larger package and may take longer to install. Alternatively, you can also setup your own python environment using pip and virtualenv.
 
-### Step 1: Install Miniconda
+### Step 1: Download the Tutorial Materials
+Download the tutorial materials from the github.
+ - Click on the green "Code" button and download the zip file.
+   - Unzip the file in a folder of your choice.
+
+Alternatively you can clone the repository using git:
+```bash
+git clone https://github.com/osome-iu/IC2S2_OSoMe_tutorial_2024.git
+```
+
+### Step 2: Install Miniconda
 
 Miniconda is a minimal installer for Conda, a package manager and an environment manager. Here’s how to install it:
 
@@ -100,7 +110,7 @@ Miniconda is a minimal installer for Conda, a package manager and an environment
    - Open a new terminal window.
    - Type `conda list`. If Miniconda is installed correctly, you'll see a list of installed packages.
 
-### Step 2: Create a Conda Environment
+### Step 3: Create a Conda Environment
 
 Creating a separate environment for your projects is good practice:
 
@@ -114,7 +124,7 @@ Creating a separate environment for your projects is good practice:
    - Run: `jupyter lab`.
    - This will open Jupyter Lab in your default web browser.
 
-### Step 3: Manually Install Essential Packages
+### Step 4: Manually Install Essential Packages
 
 The created environment already includes most of the packages we'll need, but if you need to install any additional packages, here's how:
 
@@ -128,7 +138,7 @@ The created environment already includes most of the packages we'll need, but if
    - For example, to install the `scikit-learn` package, run: `conda install scikit-learn`.
    - Alternatively, you can use `pip install <name of the package>` to install packages from PyPI.
 
-### Step 4: Verify Installation
+### Step 5: Verify Installation
 
 Make sure everything is installed correctly:
 

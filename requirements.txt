@@ -16,3 +16,7 @@ xnetwork
 beautifulsoup4
 sentence-transformers
 emlens
+spacy
+pyarrow
+nltk
+atproto
