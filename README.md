@@ -76,7 +76,7 @@ Data collected from Bluesky and Mastodon via streaming covering the period betwe
 
 Dataset is available on Zenodo:
 
-[![DOI](https://zenodo.org/badge/DOI/10.5281/zenodo.12748042.svg)](https://zenodo.org/records/12748042)
+[![DOI](https://zenodo.org/badge/DOI/10.5281/12748042.svg)](https://zenodo.org/records/12748042)
 
 
 ## Setting Up Your Environment Locally
