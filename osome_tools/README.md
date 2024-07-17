@@ -18,9 +18,12 @@
 - References: 
     - [A language framework for modeling social media account behavior](https://epjdatascience.springeropen.com/articles/10.1140/epjds/s13688-023-00410-9
 )
-    - [Uncovering Coordinated Networks on Social Media] (https://ojs.aaai.org/index.php/ICWSM/article/view/18075/17878)
+    - [Uncovering Coordinated Networks on Social Media](https://ojs.aaai.org/index.php/ICWSM/article/view/18075/17878)
     
 ## TopFIBers
+
+[link to Top FIBers](https://osome.iu.edu/tools/topfibers) 
+
 ### What does a FIB index represent?
 
 The FIB index is intended to capture the influence that a social media account has with respect to spreading low-credibility content. The FIB index focuses on problematic **repeat offenders** by capturing the consistency with which a user shares low-credibility content on a given platform during a period of time.
